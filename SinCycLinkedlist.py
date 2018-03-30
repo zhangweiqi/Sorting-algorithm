@@ -38,10 +38,11 @@ class SinCycLinkedlist(object):
             prev = prev.getNext()
 
     def search(self, item):
+        pass
 
-    def empty(self):
+    #def empty(self):
 
-    def size(self):
+    #def size(self):
 
 
 if __name__ == '__main__':
